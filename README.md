@@ -1,7 +1,8 @@
 # School_District_Analysis
 # Overview of Election Audit
 
-The goal of this project was to help Tom who is a Colorado board of election employee. We are assisting him is provide a tabulated election result for a US congressional district in Colorado. Tom in turn will present the summary of total number of votes cast, number of candidates and the votes casted for these candidate as a count and percentage of total votes to the election commission. We are also to announce the winner of this election detailing the winning votes in counts and percentages. 
+The goal of this project was to assist Maria who is a chief data scientist for a school district analyze school funding and standardized test score. We had previously help Maria generate a concise summary of these analysis to be presented to the school district board and superintendents. Based on this analysis the school board later informed Maria that they discovered evidence of academic dishonesty. It appears that the ninth grade reading and math scores for Thomas High School have been tampered. We and Maria have been asssigned to null void all the ninth grade math and reading score from the affected school, while keeping the scores from others intact. As before we are to provide a summary as to how these changes affect the overall analysis
+
   Based on our primary task the election commission had further requested additional data for;
   1. Voter turnout in each county.
   2. Percentage of votes from each county out of the total count. 
