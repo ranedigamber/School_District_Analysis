@@ -50,7 +50,14 @@ The output of this analysis will be included in a text file that should be easy 
   ![Corrected spending](https://user-images.githubusercontent.com/107159218/177910868-72f30943-b775-4069-9f6f-926fd96dd19f.JPG)
 
 
-### Election outcome
+**Score by school size
+  * Just as above there was little impact of excluding the 9th grader's from Thomas High School when analyzed for score by school size. Here are the original and corrected analysis
+  * Original analysis
+  ![Original_score_by_school_size](https://user-images.githubusercontent.com/107159218/177911385-6c7bcc18-5a30-4c43-b7d3-36e02461d106.JPG)
+
+  * Corrected analysis
+  ![Corrected_score_by_school_size](https://user-images.githubusercontent.com/107159218/177911397-1f1b0ad8-a48e-4672-b6c6-9054fff3be5d.JPG)
+
   
  
 ### Various features of the code
