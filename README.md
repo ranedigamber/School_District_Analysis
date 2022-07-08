@@ -19,12 +19,15 @@ The output of this analysis will be included in a text file that should be easy 
   
   ![district_summary_after](https://user-images.githubusercontent.com/107159218/177902944-51f8a307-20f5-47f7-950b-3d9460cc7d01.JPG)
 
-### County with largest number of votes
+### **How was the school summary affected?**
   * The biggest change the occurs by removing the 9th graders of Thomas High School from the analysis affects Thomas High School. As we can see from the figure below, prior removal of the 9th graders, Thomas High School had an overall passing % of 90.95 and was ranked 2nd in all district schools. 
   ![School_summary_before](https://user-images.githubusercontent.com/107159218/177907336-a0402d29-d166-45eb-b98c-b39e9c1b1155.JPG)
 
  * After the exclusion of the 9th graders from the analysis this school the overall passing % drops to 65.08 (net ~26% drop). As a result the overall standing for this school also drops and the school is listed in the bottom 5 for the district. The figure below provides a summary of the school performance after removal of the 9th graders. 
  ![School_summary_after](https://user-images.githubusercontent.com/107159218/177907352-587eaa89-a9f4-42e4-8453-6181a5e8ebf8.JPG)
+
+### **How does replacing the ninth grader's math and reading score affect Thomas High School's performance relative to the other schools?**
+  * As pointed out the the section above replacing the 9th grader's math and reading school results in Thomas High School dropping from 2nd position to the 8th from the bottom in the school district ranking.
 
 
 ### Summary of number of votes and the percentage of total votes for each candidates overall
