@@ -42,7 +42,14 @@ The output of this analysis will be included in a text file that should be easy 
   ![Avg_reading score](https://user-images.githubusercontent.com/107159218/177909669-2eb249b0-e27a-4c98-b89e-cf073faf744b.JPG)
 
 **Scores by school spending**
-  * 
+  * The scores by spending range does not get affected by the exclusion of the 9th grader's from Thomas High School. Thomas High School was binned in the $630-644 range for student spending. 
+  * Original spending 
+  ![Original spending](https://user-images.githubusercontent.com/107159218/177910807-8d62add3-b87e-41eb-9e17-bb46fd6879ce.JPG)
+  
+  * Corrected spending
+  ![Corrected spending](https://user-images.githubusercontent.com/107159218/177910868-72f30943-b775-4069-9f6f-926fd96dd19f.JPG)
+
+
 ### Election outcome
   
  
