@@ -31,7 +31,7 @@ The output of this analysis will be included in a text file that should be easy 
 
 
 ### How does replacing the 9th grade score affect the following:
-1.   Math and Reading Score by Grade
+**Math and Reading Score by Grade**
   * Due to the tampering of the 9th grade results from this Thomas High School the student grades were replaced with "nan". The math and reading score for these 9th graders were previously 83.6 and 83.7 respectively. The figures below are from the corrected analysis.
   * Avg Math Score
   
@@ -41,7 +41,7 @@ The output of this analysis will be included in a text file that should be easy 
   
   ![Avg_reading score](https://user-images.githubusercontent.com/107159218/177909669-2eb249b0-e27a-4c98-b89e-cf073faf744b.JPG)
 
-2.   Scores by school spending
+**Scores by school spending**
   * 
 ### Election outcome
   
