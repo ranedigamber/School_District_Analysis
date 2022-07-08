@@ -50,7 +50,7 @@ The output of this analysis will be included in a text file that should be easy 
   ![Corrected spending](https://user-images.githubusercontent.com/107159218/177910868-72f30943-b775-4069-9f6f-926fd96dd19f.JPG)
 
 
-**Score by school size
+**Score by school size**
   * Just as above there was little impact of excluding the 9th grader's from Thomas High School when analyzed for score by school size. Here are the original and corrected analysis
   * Original analysis
   ![Original_score_by_school_size](https://user-images.githubusercontent.com/107159218/177911385-6c7bcc18-5a30-4c43-b7d3-36e02461d106.JPG)
@@ -58,12 +58,23 @@ The output of this analysis will be included in a text file that should be easy 
   * Corrected analysis
   ![Corrected_score_by_school_size](https://user-images.githubusercontent.com/107159218/177911397-1f1b0ad8-a48e-4672-b6c6-9054fff3be5d.JPG)
 
+**Score by school type**
+  * In this case as well there was little to no impact of excluding the 9th grader's from Thomas High School which is classified as a charter high school.
+  * Original analysis
+  ![Original_score_by_school_type](https://user-images.githubusercontent.com/107159218/177911791-7a1388b7-60a9-4a80-8942-3676750719f5.JPG)
+
+  *Corrected analysis
+  ![Corrected_score_by_school_type](https://user-images.githubusercontent.com/107159218/177911822-c10986de-a437-4c90-b270-a1278ae3be6c.JPG)
+
+### Summary
+
+  1.  The first biggest impact of the results tampering affected the overall passing rate for Thomas High School. This saw a dramatic drop for a excellent 91% to a below average 65%
+  2.  The second biggest impact would be to the overall standing for Thomas High School which, dropped from overall 2nd to bottom 8th in the school district.
+  3.  All 9th grader's score were deemed inadmissible.
+  4. Due to the relatively small population of the 9th grader's from one school compared to the overall student population. The effect on other statistics such as scores related to school size or school type or school spending was minimal. 
   
  
-### Various features of the code
-  
  
  
- 
-### Election Audit Summary
+
   
