@@ -30,7 +30,15 @@ The output of this analysis will be included in a text file that should be easy 
   * As pointed out the the section above replacing the 9th grader's math and reading school results in Thomas High School dropping from 2nd position to the 8th from the bottom in the school district ranking.
 
 
-### Summary of number of votes and the percentage of total votes for each candidates overall
+### How does replacing the 9th grade score affect the following:
+####Math and Reading Score by Grade
+  * Due to the tampering of the 9th grade results from this Thomas High School the student grades were replaced with "nan". The math and reading score for these 9th graders were previously 83.6 and 83.7 respectively. The figures below are from the corrected analysis.
+  *Avg Math Score
+  ![Avg_math Score](https://user-images.githubusercontent.com/107159218/177909650-94adca49-2d88-4649-864f-963e180fcb04.JPG)
+
+  *Avg Reading Score
+  ![Avg_reading score](https://user-images.githubusercontent.com/107159218/177909669-2eb249b0-e27a-4c98-b89e-cf073faf744b.JPG)
+
   
 ### Election outcome
   
