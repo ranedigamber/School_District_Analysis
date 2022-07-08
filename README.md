@@ -34,8 +34,8 @@ The output of this analysis will be included in a text file that should be easy 
 
 
 ### County with largest number of votes
- 
-
+  * The biggest change the occurs by removing the 9th graders of Thomas High School from the analysis affects Thomas High School. As we can see from the figure below, prior removal of the 9th graders, Thomas High School had an overall passing % of 90.95 and was ranked 2nd in all district schools. 
+ * After the exclusion of the 9th graders from the analysis this school the overall passing % drops to 65.08 (net ~26% drop). As a result the overall standing for this school also drops and the school is listed in the bottom 5 for the district. The figure below provides a summary of the school performance after removal of the 9th graders. 
 ### Summary of number of votes and the percentage of total votes for each candidates overall
   
 ### Election outcome
