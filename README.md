@@ -18,10 +18,12 @@ The output of this analysis will be included in a text file that should be easy 
 
 
 ### How was the school summary affected
-  * The result of the number of votes cast and percentage of total votes are as follows:
-    * Denver county: 82.8% (306,055)
-    * Jefferson county: 10.5% (38,855)
-    * Arapahoe county: 6.7% (24,801)
+    * The biggest change the occurs by removing the 9th graders of Thomas High School from the analysis affects Thomas High School. As we can see from the figure below, prior removal of the 9th graders, Thomas High School had an overall passing % of 90.95 and was ranked 2nd in all district schools. 
+    ![School_summary_before](https://user-images.githubusercontent.com/107159218/177905913-fc9efb99-7c42-4e3e-b5b4-3f85cae7b618.JPG)
+
+    * After the exclusion of the 9th graders from the analysis this school the overall passing % drops to 65.08 (net ~26% drop). As a result the overall standing for this school also drops and the school is listed in the bottom 5 for the district. The figure below provides a summary of the school performance after removal of the 9th graders. 
+    ![School_summary_after](https://user-images.githubusercontent.com/107159218/177906259-0c9dad97-45cc-4aa5-a99b-0f8f4fe3fdcd.JPG)
+
 
 ### County with largest number of votes
   * **Denver county** had the largest voter turnout
