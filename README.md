@@ -12,8 +12,10 @@ The output of this analysis will be included in a text file that should be easy 
 ## Summary Results:
 ### How was the district summary affected
   * The inital analysis was performed on the total number of students inclusive of the 9th grader's from the Thomas High School. The figure below depicts the summary result of this analysis. 
+  
   ![district_summary_before](https://user-images.githubusercontent.com/107159218/177902185-3897d557-8bed-4bb2-a659-b0c8aa62aa42.JPG)
   * The removal of the 9th graders from the analysis yielded a new summary that has very minor changes in the "average math" and the "% math, %reading and % overall passing" scores. The figure below depicts the new district summary.
+  
   ![district_summary_after](https://user-images.githubusercontent.com/107159218/177902944-51f8a307-20f5-47f7-950b-3d9460cc7d01.JPG)
 
 
