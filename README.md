@@ -17,7 +17,7 @@ The output of this analysis will be included in a text file that should be easy 
   ![district_summary_after](https://user-images.githubusercontent.com/107159218/177902944-51f8a307-20f5-47f7-950b-3d9460cc7d01.JPG)
 
 
-### Summary of number of votes and the percentage of total votes for each county in the precinct
+### How was the school summary affected
   * The result of the number of votes cast and percentage of total votes are as follows:
     * Denver county: 82.8% (306,055)
     * Jefferson county: 10.5% (38,855)
